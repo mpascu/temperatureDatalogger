@@ -1,0 +1,4590 @@
+_________________________________________
+
+ Wed Aug 12 11:12:28 2015
+_________________________________________
+Temperatura sensor 1 : 0
+Temperatura sensor 2 : 0
+Temperatura sensor 3 : 0
+Temperatura sensor 4 : 0
+Temperatura sensor 5 : 0
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:13:28 2015
+_________________________________________
+Temperatura sensor 1 : 24.9
+Temperatura sensor 2 : 24.75
+Temperatura sensor 3 : 24.725
+Temperatura sensor 4 : 24.825
+Temperatura sensor 5 : 24.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:14:28 2015
+_________________________________________
+Temperatura sensor 1 : 24.712
+Temperatura sensor 2 : 24.562
+Temperatura sensor 3 : 24.475
+Temperatura sensor 4 : 24.575
+Temperatura sensor 5 : 24.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:15:29 2015
+_________________________________________
+Temperatura sensor 1 : 24.712
+Temperatura sensor 2 : 25.062
+Temperatura sensor 3 : 24.537
+Temperatura sensor 4 : 24.7
+Temperatura sensor 5 : 24.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:16:29 2015
+_________________________________________
+Temperatura sensor 1 : 25.15
+Temperatura sensor 2 : 24.937
+Temperatura sensor 3 : 24.787
+Temperatura sensor 4 : 24.825
+Temperatura sensor 5 : 24.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:17:29 2015
+_________________________________________
+Temperatura sensor 1 : 25.337
+Temperatura sensor 2 : 25.062
+Temperatura sensor 3 : 24.975
+Temperatura sensor 4 : 25.012
+Temperatura sensor 5 : 24.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:18:29 2015
+_________________________________________
+Temperatura sensor 1 : 25.4
+Temperatura sensor 2 : 25.187
+Temperatura sensor 3 : 24.975
+Temperatura sensor 4 : 25.075
+Temperatura sensor 5 : 24.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:19:29 2015
+_________________________________________
+Temperatura sensor 1 : 26.462
+Temperatura sensor 2 : 26.562
+Temperatura sensor 3 : 26.287
+Temperatura sensor 4 : 26.325
+Temperatura sensor 5 : 26.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:20:29 2015
+_________________________________________
+Temperatura sensor 1 : 28.025
+Temperatura sensor 2 : 28.0
+Temperatura sensor 3 : 27.975
+Temperatura sensor 4 : 27.762
+Temperatura sensor 5 : 27.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:21:29 2015
+_________________________________________
+Temperatura sensor 1 : 28.462
+Temperatura sensor 2 : 28.5
+Temperatura sensor 3 : 28.412
+Temperatura sensor 4 : 28.387
+Temperatura sensor 5 : 28.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:22:29 2015
+_________________________________________
+Temperatura sensor 1 : 28.4
+Temperatura sensor 2 : 28.5
+Temperatura sensor 3 : 28.412
+Temperatura sensor 4 : 28.387
+Temperatura sensor 5 : 28.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:23:29 2015
+_________________________________________
+Temperatura sensor 1 : 28.462
+Temperatura sensor 2 : 28.562
+Temperatura sensor 3 : 28.475
+Temperatura sensor 4 : 28.45
+Temperatura sensor 5 : 28.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:24:29 2015
+_________________________________________
+Temperatura sensor 1 : 28.587
+Temperatura sensor 2 : 28.625
+Temperatura sensor 3 : 28.6
+Temperatura sensor 4 : 28.575
+Temperatura sensor 5 : 28.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:25:29 2015
+_________________________________________
+Temperatura sensor 1 : 28.65
+Temperatura sensor 2 : 28.75
+Temperatura sensor 3 : 28.662
+Temperatura sensor 4 : 28.7
+Temperatura sensor 5 : 28.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:26:29 2015
+_________________________________________
+Temperatura sensor 1 : 28.775
+Temperatura sensor 2 : 28.875
+Temperatura sensor 3 : 28.787
+Temperatura sensor 4 : 28.762
+Temperatura sensor 5 : 28.737
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:27:29 2015
+_________________________________________
+Temperatura sensor 1 : 28.837
+Temperatura sensor 2 : 28.937
+Temperatura sensor 3 : 28.85
+Temperatura sensor 4 : 28.887
+Temperatura sensor 5 : 28.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:28:29 2015
+_________________________________________
+Temperatura sensor 1 : 28.9
+Temperatura sensor 2 : 29.062
+Temperatura sensor 3 : 28.912
+Temperatura sensor 4 : 28.95
+Temperatura sensor 5 : 28.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:29:29 2015
+_________________________________________
+Temperatura sensor 1 : 29.025
+Temperatura sensor 2 : 29.125
+Temperatura sensor 3 : 28.975
+Temperatura sensor 4 : 29.012
+Temperatura sensor 5 : 28.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:30:29 2015
+_________________________________________
+Temperatura sensor 1 : 29.087
+Temperatura sensor 2 : 29.187
+Temperatura sensor 3 : 29.1
+Temperatura sensor 4 : 29.137
+Temperatura sensor 5 : 29.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:31:29 2015
+_________________________________________
+Temperatura sensor 1 : 29.15
+Temperatura sensor 2 : 29.312
+Temperatura sensor 3 : 29.162
+Temperatura sensor 4 : 29.2
+Temperatura sensor 5 : 29.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:32:29 2015
+_________________________________________
+Temperatura sensor 1 : 29.212
+Temperatura sensor 2 : 29.375
+Temperatura sensor 3 : 29.225
+Temperatura sensor 4 : 29.262
+Temperatura sensor 5 : 29.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:33:29 2015
+_________________________________________
+Temperatura sensor 1 : 29.275
+Temperatura sensor 2 : 29.437
+Temperatura sensor 3 : 29.287
+Temperatura sensor 4 : 29.325
+Temperatura sensor 5 : 29.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:34:29 2015
+_________________________________________
+Temperatura sensor 1 : 29.337
+Temperatura sensor 2 : 29.5
+Temperatura sensor 3 : 29.35
+Temperatura sensor 4 : 29.387
+Temperatura sensor 5 : 29.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:35:29 2015
+_________________________________________
+Temperatura sensor 1 : 29.4
+Temperatura sensor 2 : 29.562
+Temperatura sensor 3 : 29.412
+Temperatura sensor 4 : 29.45
+Temperatura sensor 5 : 29.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:36:30 2015
+_________________________________________
+Temperatura sensor 1 : 29.462
+Temperatura sensor 2 : 29.687
+Temperatura sensor 3 : 29.475
+Temperatura sensor 4 : 29.575
+Temperatura sensor 5 : 29.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:37:30 2015
+_________________________________________
+Temperatura sensor 1 : 29.525
+Temperatura sensor 2 : 29.75
+Temperatura sensor 3 : 29.537
+Temperatura sensor 4 : 29.575
+Temperatura sensor 5 : 29.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:38:30 2015
+_________________________________________
+Temperatura sensor 1 : 29.65
+Temperatura sensor 2 : 29.812
+Temperatura sensor 3 : 29.6
+Temperatura sensor 4 : 29.7
+Temperatura sensor 5 : 29.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:39:30 2015
+_________________________________________
+Temperatura sensor 1 : 29.712
+Temperatura sensor 2 : 29.875
+Temperatura sensor 3 : 29.662
+Temperatura sensor 4 : 29.7
+Temperatura sensor 5 : 29.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:40:30 2015
+_________________________________________
+Temperatura sensor 1 : 29.775
+Temperatura sensor 2 : 29.937
+Temperatura sensor 3 : 29.725
+Temperatura sensor 4 : 29.825
+Temperatura sensor 5 : 29.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:41:30 2015
+_________________________________________
+Temperatura sensor 1 : 29.837
+Temperatura sensor 2 : 30.0
+Temperatura sensor 3 : 29.787
+Temperatura sensor 4 : 29.887
+Temperatura sensor 5 : 29.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:42:30 2015
+_________________________________________
+Temperatura sensor 1 : 29.9
+Temperatura sensor 2 : 30.062
+Temperatura sensor 3 : 29.912
+Temperatura sensor 4 : 29.95
+Temperatura sensor 5 : 29.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:43:30 2015
+_________________________________________
+Temperatura sensor 1 : 29.962
+Temperatura sensor 2 : 30.125
+Temperatura sensor 3 : 29.975
+Temperatura sensor 4 : 30.012
+Temperatura sensor 5 : 29.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:44:30 2015
+_________________________________________
+Temperatura sensor 1 : 30.025
+Temperatura sensor 2 : 30.187
+Temperatura sensor 3 : 30.037
+Temperatura sensor 4 : 30.075
+Temperatura sensor 5 : 30.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:45:30 2015
+_________________________________________
+Temperatura sensor 1 : 30.087
+Temperatura sensor 2 : 30.25
+Temperatura sensor 3 : 30.037
+Temperatura sensor 4 : 30.137
+Temperatura sensor 5 : 30.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:46:30 2015
+_________________________________________
+Temperatura sensor 1 : 30.15
+Temperatura sensor 2 : 30.312
+Temperatura sensor 3 : 30.162
+Temperatura sensor 4 : 30.2
+Temperatura sensor 5 : 30.175
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:47:30 2015
+_________________________________________
+Temperatura sensor 1 : 30.212
+Temperatura sensor 2 : 30.375
+Temperatura sensor 3 : 30.162
+Temperatura sensor 4 : 30.262
+Temperatura sensor 5 : 30.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:48:30 2015
+_________________________________________
+Temperatura sensor 1 : 30.275
+Temperatura sensor 2 : 30.437
+Temperatura sensor 3 : 30.287
+Temperatura sensor 4 : 30.325
+Temperatura sensor 5 : 30.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:49:30 2015
+_________________________________________
+Temperatura sensor 1 : 30.337
+Temperatura sensor 2 : 30.5
+Temperatura sensor 3 : 30.35
+Temperatura sensor 4 : 30.387
+Temperatura sensor 5 : 30.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:50:30 2015
+_________________________________________
+Temperatura sensor 1 : 30.4
+Temperatura sensor 2 : 30.562
+Temperatura sensor 3 : 30.35
+Temperatura sensor 4 : 30.45
+Temperatura sensor 5 : 30.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:51:30 2015
+_________________________________________
+Temperatura sensor 1 : 30.462
+Temperatura sensor 2 : 30.625
+Temperatura sensor 3 : 30.475
+Temperatura sensor 4 : 30.512
+Temperatura sensor 5 : 30.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:52:30 2015
+_________________________________________
+Temperatura sensor 1 : 30.462
+Temperatura sensor 2 : 30.687
+Temperatura sensor 3 : 30.475
+Temperatura sensor 4 : 30.512
+Temperatura sensor 5 : 30.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:53:30 2015
+_________________________________________
+Temperatura sensor 1 : 30.525
+Temperatura sensor 2 : 30.75
+Temperatura sensor 3 : 30.537
+Temperatura sensor 4 : 30.637
+Temperatura sensor 5 : 30.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:54:30 2015
+_________________________________________
+Temperatura sensor 1 : 30.587
+Temperatura sensor 2 : 30.812
+Temperatura sensor 3 : 30.6
+Temperatura sensor 4 : 30.7
+Temperatura sensor 5 : 30.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:55:30 2015
+_________________________________________
+Temperatura sensor 1 : 30.65
+Temperatura sensor 2 : 30.875
+Temperatura sensor 3 : 30.662
+Temperatura sensor 4 : 30.762
+Temperatura sensor 5 : 30.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:56:30 2015
+_________________________________________
+Temperatura sensor 1 : 30.712
+Temperatura sensor 2 : 30.937
+Temperatura sensor 3 : 30.725
+Temperatura sensor 4 : 30.762
+Temperatura sensor 5 : 30.737
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:57:31 2015
+_________________________________________
+Temperatura sensor 1 : 30.775
+Temperatura sensor 2 : 31.0
+Temperatura sensor 3 : 30.787
+Temperatura sensor 4 : 30.825
+Temperatura sensor 5 : 30.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:58:31 2015
+_________________________________________
+Temperatura sensor 1 : 30.837
+Temperatura sensor 2 : 31.0
+Temperatura sensor 3 : 30.85
+Temperatura sensor 4 : 30.887
+Temperatura sensor 5 : 30.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 11:59:31 2015
+_________________________________________
+Temperatura sensor 1 : 30.837
+Temperatura sensor 2 : 31.062
+Temperatura sensor 3 : 30.912
+Temperatura sensor 4 : 30.95
+Temperatura sensor 5 : 30.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:00:31 2015
+_________________________________________
+Temperatura sensor 1 : 30.9
+Temperatura sensor 2 : 31.125
+Temperatura sensor 3 : 30.975
+Temperatura sensor 4 : 31.012
+Temperatura sensor 5 : 30.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:01:31 2015
+_________________________________________
+Temperatura sensor 1 : 30.962
+Temperatura sensor 2 : 31.187
+Temperatura sensor 3 : 30.975
+Temperatura sensor 4 : 31.075
+Temperatura sensor 5 : 30.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:02:31 2015
+_________________________________________
+Temperatura sensor 1 : 30.962
+Temperatura sensor 2 : 31.062
+Temperatura sensor 3 : 30.975
+Temperatura sensor 4 : 30.95
+Temperatura sensor 5 : 30.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:03:31 2015
+_________________________________________
+Temperatura sensor 1 : 30.9
+Temperatura sensor 2 : 31.0
+Temperatura sensor 3 : 30.912
+Temperatura sensor 4 : 30.95
+Temperatura sensor 5 : 30.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:04:31 2015
+_________________________________________
+Temperatura sensor 1 : 30.9
+Temperatura sensor 2 : 31.0
+Temperatura sensor 3 : 30.912
+Temperatura sensor 4 : 30.95
+Temperatura sensor 5 : 30.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:05:31 2015
+_________________________________________
+Temperatura sensor 1 : 30.9
+Temperatura sensor 2 : 31.0
+Temperatura sensor 3 : 30.912
+Temperatura sensor 4 : 30.95
+Temperatura sensor 5 : 30.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:06:31 2015
+_________________________________________
+Temperatura sensor 1 : 30.962
+Temperatura sensor 2 : 31.0
+Temperatura sensor 3 : 30.975
+Temperatura sensor 4 : 30.95
+Temperatura sensor 5 : 30.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:07:31 2015
+_________________________________________
+Temperatura sensor 1 : 30.962
+Temperatura sensor 2 : 31.062
+Temperatura sensor 3 : 30.975
+Temperatura sensor 4 : 30.95
+Temperatura sensor 5 : 30.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:08:31 2015
+_________________________________________
+Temperatura sensor 1 : 30.962
+Temperatura sensor 2 : 31.062
+Temperatura sensor 3 : 30.975
+Temperatura sensor 4 : 31.012
+Temperatura sensor 5 : 30.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:09:31 2015
+_________________________________________
+Temperatura sensor 1 : 31.025
+Temperatura sensor 2 : 31.062
+Temperatura sensor 3 : 31.037
+Temperatura sensor 4 : 31.012
+Temperatura sensor 5 : 30.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:10:31 2015
+_________________________________________
+Temperatura sensor 1 : 31.025
+Temperatura sensor 2 : 31.125
+Temperatura sensor 3 : 31.037
+Temperatura sensor 4 : 31.012
+Temperatura sensor 5 : 30.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:11:31 2015
+_________________________________________
+Temperatura sensor 1 : 31.087
+Temperatura sensor 2 : 31.187
+Temperatura sensor 3 : 31.037
+Temperatura sensor 4 : 31.075
+Temperatura sensor 5 : 31.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:12:31 2015
+_________________________________________
+Temperatura sensor 1 : 31.15
+Temperatura sensor 2 : 31.187
+Temperatura sensor 3 : 31.1
+Temperatura sensor 4 : 31.075
+Temperatura sensor 5 : 31.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:13:31 2015
+_________________________________________
+Temperatura sensor 1 : 31.15
+Temperatura sensor 2 : 31.25
+Temperatura sensor 3 : 31.162
+Temperatura sensor 4 : 31.137
+Temperatura sensor 5 : 31.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:14:31 2015
+_________________________________________
+Temperatura sensor 1 : 31.212
+Temperatura sensor 2 : 31.25
+Temperatura sensor 3 : 31.162
+Temperatura sensor 4 : 31.2
+Temperatura sensor 5 : 31.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:15:31 2015
+_________________________________________
+Temperatura sensor 1 : 31.212
+Temperatura sensor 2 : 31.25
+Temperatura sensor 3 : 31.225
+Temperatura sensor 4 : 31.2
+Temperatura sensor 5 : 31.175
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:16:31 2015
+_________________________________________
+Temperatura sensor 1 : 31.15
+Temperatura sensor 2 : 31.125
+Temperatura sensor 3 : 31.162
+Temperatura sensor 4 : 31.075
+Temperatura sensor 5 : 31.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:17:31 2015
+_________________________________________
+Temperatura sensor 1 : 31.15
+Temperatura sensor 2 : 31.125
+Temperatura sensor 3 : 31.1
+Temperatura sensor 4 : 31.075
+Temperatura sensor 5 : 31.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:18:32 2015
+_________________________________________
+Temperatura sensor 1 : 31.087
+Temperatura sensor 2 : 31.062
+Temperatura sensor 3 : 31.1
+Temperatura sensor 4 : 31.012
+Temperatura sensor 5 : 30.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:19:32 2015
+_________________________________________
+Temperatura sensor 1 : 31.087
+Temperatura sensor 2 : 31.062
+Temperatura sensor 3 : 31.037
+Temperatura sensor 4 : 31.012
+Temperatura sensor 5 : 30.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:20:32 2015
+_________________________________________
+Temperatura sensor 1 : 31.087
+Temperatura sensor 2 : 31.062
+Temperatura sensor 3 : 31.037
+Temperatura sensor 4 : 31.012
+Temperatura sensor 5 : 30.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:21:32 2015
+_________________________________________
+Temperatura sensor 1 : 31.025
+Temperatura sensor 2 : 31.062
+Temperatura sensor 3 : 31.037
+Temperatura sensor 4 : 31.012
+Temperatura sensor 5 : 30.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:22:32 2015
+_________________________________________
+Temperatura sensor 1 : 31.087
+Temperatura sensor 2 : 31.062
+Temperatura sensor 3 : 31.037
+Temperatura sensor 4 : 31.012
+Temperatura sensor 5 : 30.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:23:32 2015
+_________________________________________
+Temperatura sensor 1 : 31.087
+Temperatura sensor 2 : 31.125
+Temperatura sensor 3 : 31.037
+Temperatura sensor 4 : 31.012
+Temperatura sensor 5 : 30.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:24:32 2015
+_________________________________________
+Temperatura sensor 1 : 31.087
+Temperatura sensor 2 : 31.125
+Temperatura sensor 3 : 31.1
+Temperatura sensor 4 : 31.075
+Temperatura sensor 5 : 30.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:25:32 2015
+_________________________________________
+Temperatura sensor 1 : 31.15
+Temperatura sensor 2 : 31.125
+Temperatura sensor 3 : 31.1
+Temperatura sensor 4 : 31.075
+Temperatura sensor 5 : 31.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:26:32 2015
+_________________________________________
+Temperatura sensor 1 : 31.15
+Temperatura sensor 2 : 31.187
+Temperatura sensor 3 : 31.1
+Temperatura sensor 4 : 31.137
+Temperatura sensor 5 : 31.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:27:32 2015
+_________________________________________
+Temperatura sensor 1 : 31.15
+Temperatura sensor 2 : 31.25
+Temperatura sensor 3 : 31.162
+Temperatura sensor 4 : 31.137
+Temperatura sensor 5 : 31.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:28:32 2015
+_________________________________________
+Temperatura sensor 1 : 31.212
+Temperatura sensor 2 : 31.25
+Temperatura sensor 3 : 31.225
+Temperatura sensor 4 : 31.2
+Temperatura sensor 5 : 31.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:29:32 2015
+_________________________________________
+Temperatura sensor 1 : 31.212
+Temperatura sensor 2 : 31.25
+Temperatura sensor 3 : 31.225
+Temperatura sensor 4 : 31.2
+Temperatura sensor 5 : 31.175
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:30:32 2015
+_________________________________________
+Temperatura sensor 1 : 31.275
+Temperatura sensor 2 : 31.312
+Temperatura sensor 3 : 31.225
+Temperatura sensor 4 : 31.262
+Temperatura sensor 5 : 31.175
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:31:32 2015
+_________________________________________
+Temperatura sensor 1 : 31.275
+Temperatura sensor 2 : 31.312
+Temperatura sensor 3 : 31.287
+Temperatura sensor 4 : 31.262
+Temperatura sensor 5 : 31.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:32:32 2015
+_________________________________________
+Temperatura sensor 1 : 31.337
+Temperatura sensor 2 : 31.312
+Temperatura sensor 3 : 31.287
+Temperatura sensor 4 : 31.262
+Temperatura sensor 5 : 31.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:33:32 2015
+_________________________________________
+Temperatura sensor 1 : 31.337
+Temperatura sensor 2 : 31.375
+Temperatura sensor 3 : 31.35
+Temperatura sensor 4 : 31.325
+Temperatura sensor 5 : 31.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:34:32 2015
+_________________________________________
+Temperatura sensor 1 : 31.337
+Temperatura sensor 2 : 31.375
+Temperatura sensor 3 : 31.35
+Temperatura sensor 4 : 31.325
+Temperatura sensor 5 : 31.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:35:33 2015
+_________________________________________
+Temperatura sensor 1 : 31.4
+Temperatura sensor 2 : 31.437
+Temperatura sensor 3 : 31.35
+Temperatura sensor 4 : 31.325
+Temperatura sensor 5 : 31.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:36:33 2015
+_________________________________________
+Temperatura sensor 1 : 31.4
+Temperatura sensor 2 : 31.437
+Temperatura sensor 3 : 31.412
+Temperatura sensor 4 : 31.387
+Temperatura sensor 5 : 31.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:37:33 2015
+_________________________________________
+Temperatura sensor 1 : 31.462
+Temperatura sensor 2 : 31.5
+Temperatura sensor 3 : 31.412
+Temperatura sensor 4 : 31.45
+Temperatura sensor 5 : 31.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:38:33 2015
+_________________________________________
+Temperatura sensor 1 : 31.462
+Temperatura sensor 2 : 31.5
+Temperatura sensor 3 : 31.475
+Temperatura sensor 4 : 31.45
+Temperatura sensor 5 : 31.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:39:33 2015
+_________________________________________
+Temperatura sensor 1 : 31.525
+Temperatura sensor 2 : 31.562
+Temperatura sensor 3 : 31.475
+Temperatura sensor 4 : 31.45
+Temperatura sensor 5 : 31.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:40:33 2015
+_________________________________________
+Temperatura sensor 1 : 31.525
+Temperatura sensor 2 : 31.562
+Temperatura sensor 3 : 31.537
+Temperatura sensor 4 : 31.512
+Temperatura sensor 5 : 31.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:41:33 2015
+_________________________________________
+Temperatura sensor 1 : 31.525
+Temperatura sensor 2 : 31.625
+Temperatura sensor 3 : 31.537
+Temperatura sensor 4 : 31.512
+Temperatura sensor 5 : 31.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:42:33 2015
+_________________________________________
+Temperatura sensor 1 : 31.587
+Temperatura sensor 2 : 31.625
+Temperatura sensor 3 : 31.537
+Temperatura sensor 4 : 31.575
+Temperatura sensor 5 : 31.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:43:33 2015
+_________________________________________
+Temperatura sensor 1 : 31.587
+Temperatura sensor 2 : 31.625
+Temperatura sensor 3 : 31.6
+Temperatura sensor 4 : 31.575
+Temperatura sensor 5 : 31.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:44:33 2015
+_________________________________________
+Temperatura sensor 1 : 31.65
+Temperatura sensor 2 : 31.687
+Temperatura sensor 3 : 31.6
+Temperatura sensor 4 : 31.575
+Temperatura sensor 5 : 31.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:45:33 2015
+_________________________________________
+Temperatura sensor 1 : 31.65
+Temperatura sensor 2 : 31.687
+Temperatura sensor 3 : 31.662
+Temperatura sensor 4 : 31.637
+Temperatura sensor 5 : 31.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:46:33 2015
+_________________________________________
+Temperatura sensor 1 : 31.712
+Temperatura sensor 2 : 31.75
+Temperatura sensor 3 : 31.662
+Temperatura sensor 4 : 31.637
+Temperatura sensor 5 : 31.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:47:33 2015
+_________________________________________
+Temperatura sensor 1 : 31.712
+Temperatura sensor 2 : 31.75
+Temperatura sensor 3 : 31.725
+Temperatura sensor 4 : 31.7
+Temperatura sensor 5 : 31.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:48:33 2015
+_________________________________________
+Temperatura sensor 1 : 31.712
+Temperatura sensor 2 : 31.812
+Temperatura sensor 3 : 31.725
+Temperatura sensor 4 : 31.7
+Temperatura sensor 5 : 31.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:49:33 2015
+_________________________________________
+Temperatura sensor 1 : 31.775
+Temperatura sensor 2 : 31.812
+Temperatura sensor 3 : 31.725
+Temperatura sensor 4 : 31.762
+Temperatura sensor 5 : 31.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:50:33 2015
+_________________________________________
+Temperatura sensor 1 : 31.775
+Temperatura sensor 2 : 31.875
+Temperatura sensor 3 : 31.787
+Temperatura sensor 4 : 31.762
+Temperatura sensor 5 : 31.737
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:51:33 2015
+_________________________________________
+Temperatura sensor 1 : 31.837
+Temperatura sensor 2 : 31.875
+Temperatura sensor 3 : 31.787
+Temperatura sensor 4 : 31.825
+Temperatura sensor 5 : 31.737
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:52:33 2015
+_________________________________________
+Temperatura sensor 1 : 31.837
+Temperatura sensor 2 : 31.875
+Temperatura sensor 3 : 31.85
+Temperatura sensor 4 : 31.825
+Temperatura sensor 5 : 31.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:53:34 2015
+_________________________________________
+Temperatura sensor 1 : 31.9
+Temperatura sensor 2 : 31.937
+Temperatura sensor 3 : 31.85
+Temperatura sensor 4 : 31.887
+Temperatura sensor 5 : 31.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:54:34 2015
+_________________________________________
+Temperatura sensor 1 : 31.9
+Temperatura sensor 2 : 31.937
+Temperatura sensor 3 : 31.912
+Temperatura sensor 4 : 31.887
+Temperatura sensor 5 : 31.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:55:34 2015
+_________________________________________
+Temperatura sensor 1 : 31.9
+Temperatura sensor 2 : 32.0
+Temperatura sensor 3 : 31.912
+Temperatura sensor 4 : 31.887
+Temperatura sensor 5 : 31.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:56:34 2015
+_________________________________________
+Temperatura sensor 1 : 31.962
+Temperatura sensor 2 : 32.0
+Temperatura sensor 3 : 31.975
+Temperatura sensor 4 : 31.95
+Temperatura sensor 5 : 31.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:57:34 2015
+_________________________________________
+Temperatura sensor 1 : 32.025
+Temperatura sensor 2 : 32.062
+Temperatura sensor 3 : 31.975
+Temperatura sensor 4 : 32.012
+Temperatura sensor 5 : 31.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:58:34 2015
+_________________________________________
+Temperatura sensor 1 : 32.025
+Temperatura sensor 2 : 32.062
+Temperatura sensor 3 : 31.975
+Temperatura sensor 4 : 32.012
+Temperatura sensor 5 : 31.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 12:59:34 2015
+_________________________________________
+Temperatura sensor 1 : 32.025
+Temperatura sensor 2 : 32.062
+Temperatura sensor 3 : 32.037
+Temperatura sensor 4 : 32.012
+Temperatura sensor 5 : 31.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:00:34 2015
+_________________________________________
+Temperatura sensor 1 : 32.087
+Temperatura sensor 2 : 32.125
+Temperatura sensor 3 : 32.037
+Temperatura sensor 4 : 32.075
+Temperatura sensor 5 : 31.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:01:34 2015
+_________________________________________
+Temperatura sensor 1 : 32.087
+Temperatura sensor 2 : 32.125
+Temperatura sensor 3 : 32.1
+Temperatura sensor 4 : 32.075
+Temperatura sensor 5 : 32.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:02:34 2015
+_________________________________________
+Temperatura sensor 1 : 32.15
+Temperatura sensor 2 : 32.187
+Temperatura sensor 3 : 32.1
+Temperatura sensor 4 : 32.137
+Temperatura sensor 5 : 32.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:03:34 2015
+_________________________________________
+Temperatura sensor 1 : 32.15
+Temperatura sensor 2 : 32.187
+Temperatura sensor 3 : 32.162
+Temperatura sensor 4 : 32.137
+Temperatura sensor 5 : 32.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:04:34 2015
+_________________________________________
+Temperatura sensor 1 : 32.212
+Temperatura sensor 2 : 32.25
+Temperatura sensor 3 : 32.162
+Temperatura sensor 4 : 32.137
+Temperatura sensor 5 : 32.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:05:34 2015
+_________________________________________
+Temperatura sensor 1 : 32.212
+Temperatura sensor 2 : 32.25
+Temperatura sensor 3 : 32.225
+Temperatura sensor 4 : 32.2
+Temperatura sensor 5 : 32.175
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:06:34 2015
+_________________________________________
+Temperatura sensor 1 : 32.275
+Temperatura sensor 2 : 32.312
+Temperatura sensor 3 : 32.225
+Temperatura sensor 4 : 32.2
+Temperatura sensor 5 : 32.175
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:07:34 2015
+_________________________________________
+Temperatura sensor 1 : 32.275
+Temperatura sensor 2 : 32.312
+Temperatura sensor 3 : 32.225
+Temperatura sensor 4 : 32.262
+Temperatura sensor 5 : 32.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:08:34 2015
+_________________________________________
+Temperatura sensor 1 : 32.275
+Temperatura sensor 2 : 32.312
+Temperatura sensor 3 : 32.287
+Temperatura sensor 4 : 32.262
+Temperatura sensor 5 : 32.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:09:34 2015
+_________________________________________
+Temperatura sensor 1 : 32.337
+Temperatura sensor 2 : 32.375
+Temperatura sensor 3 : 32.287
+Temperatura sensor 4 : 32.262
+Temperatura sensor 5 : 32.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:10:34 2015
+_________________________________________
+Temperatura sensor 1 : 32.337
+Temperatura sensor 2 : 32.375
+Temperatura sensor 3 : 32.287
+Temperatura sensor 4 : 32.325
+Temperatura sensor 5 : 32.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:11:34 2015
+_________________________________________
+Temperatura sensor 1 : 32.337
+Temperatura sensor 2 : 32.375
+Temperatura sensor 3 : 32.35
+Temperatura sensor 4 : 32.325
+Temperatura sensor 5 : 32.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:12:34 2015
+_________________________________________
+Temperatura sensor 1 : 32.4
+Temperatura sensor 2 : 32.437
+Temperatura sensor 3 : 32.35
+Temperatura sensor 4 : 32.325
+Temperatura sensor 5 : 32.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:13:35 2015
+_________________________________________
+Temperatura sensor 1 : 32.4
+Temperatura sensor 2 : 32.437
+Temperatura sensor 3 : 32.412
+Temperatura sensor 4 : 32.387
+Temperatura sensor 5 : 32.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:14:35 2015
+_________________________________________
+Temperatura sensor 1 : 32.4
+Temperatura sensor 2 : 32.437
+Temperatura sensor 3 : 32.412
+Temperatura sensor 4 : 32.387
+Temperatura sensor 5 : 32.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:15:35 2015
+_________________________________________
+Temperatura sensor 1 : 32.462
+Temperatura sensor 2 : 32.5
+Temperatura sensor 3 : 32.412
+Temperatura sensor 4 : 32.387
+Temperatura sensor 5 : 32.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:16:35 2015
+_________________________________________
+Temperatura sensor 1 : 32.462
+Temperatura sensor 2 : 32.5
+Temperatura sensor 3 : 32.412
+Temperatura sensor 4 : 32.45
+Temperatura sensor 5 : 32.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:17:35 2015
+_________________________________________
+Temperatura sensor 1 : 32.462
+Temperatura sensor 2 : 32.5
+Temperatura sensor 3 : 32.475
+Temperatura sensor 4 : 32.45
+Temperatura sensor 5 : 32.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:18:35 2015
+_________________________________________
+Temperatura sensor 1 : 32.462
+Temperatura sensor 2 : 32.562
+Temperatura sensor 3 : 32.475
+Temperatura sensor 4 : 32.45
+Temperatura sensor 5 : 32.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:19:35 2015
+_________________________________________
+Temperatura sensor 1 : 32.525
+Temperatura sensor 2 : 32.562
+Temperatura sensor 3 : 32.475
+Temperatura sensor 4 : 32.45
+Temperatura sensor 5 : 32.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:20:35 2015
+_________________________________________
+Temperatura sensor 1 : 32.525
+Temperatura sensor 2 : 32.562
+Temperatura sensor 3 : 32.475
+Temperatura sensor 4 : 32.512
+Temperatura sensor 5 : 32.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:21:35 2015
+_________________________________________
+Temperatura sensor 1 : 32.525
+Temperatura sensor 2 : 32.562
+Temperatura sensor 3 : 32.537
+Temperatura sensor 4 : 32.512
+Temperatura sensor 5 : 32.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:22:35 2015
+_________________________________________
+Temperatura sensor 1 : 32.587
+Temperatura sensor 2 : 32.562
+Temperatura sensor 3 : 32.537
+Temperatura sensor 4 : 32.512
+Temperatura sensor 5 : 32.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:23:35 2015
+_________________________________________
+Temperatura sensor 1 : 32.587
+Temperatura sensor 2 : 32.562
+Temperatura sensor 3 : 32.537
+Temperatura sensor 4 : 32.512
+Temperatura sensor 5 : 32.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:24:35 2015
+_________________________________________
+Temperatura sensor 1 : 32.587
+Temperatura sensor 2 : 32.562
+Temperatura sensor 3 : 32.537
+Temperatura sensor 4 : 32.512
+Temperatura sensor 5 : 32.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:25:35 2015
+_________________________________________
+Temperatura sensor 1 : 32.587
+Temperatura sensor 2 : 32.625
+Temperatura sensor 3 : 32.6
+Temperatura sensor 4 : 32.512
+Temperatura sensor 5 : 32.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:26:35 2015
+_________________________________________
+Temperatura sensor 1 : 32.587
+Temperatura sensor 2 : 32.625
+Temperatura sensor 3 : 32.6
+Temperatura sensor 4 : 32.575
+Temperatura sensor 5 : 32.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:27:35 2015
+_________________________________________
+Temperatura sensor 1 : 32.65
+Temperatura sensor 2 : 32.625
+Temperatura sensor 3 : 32.6
+Temperatura sensor 4 : 32.575
+Temperatura sensor 5 : 32.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:28:35 2015
+_________________________________________
+Temperatura sensor 1 : 32.65
+Temperatura sensor 2 : 32.625
+Temperatura sensor 3 : 32.6
+Temperatura sensor 4 : 32.575
+Temperatura sensor 5 : 32.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:29:35 2015
+_________________________________________
+Temperatura sensor 1 : 32.65
+Temperatura sensor 2 : 32.687
+Temperatura sensor 3 : 32.6
+Temperatura sensor 4 : 32.575
+Temperatura sensor 5 : 32.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:30:35 2015
+_________________________________________
+Temperatura sensor 1 : 32.65
+Temperatura sensor 2 : 32.687
+Temperatura sensor 3 : 32.662
+Temperatura sensor 4 : 32.637
+Temperatura sensor 5 : 32.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:31:35 2015
+_________________________________________
+Temperatura sensor 1 : 32.65
+Temperatura sensor 2 : 32.687
+Temperatura sensor 3 : 32.662
+Temperatura sensor 4 : 32.637
+Temperatura sensor 5 : 32.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:32:35 2015
+_________________________________________
+Temperatura sensor 1 : 32.712
+Temperatura sensor 2 : 32.687
+Temperatura sensor 3 : 32.662
+Temperatura sensor 4 : 32.637
+Temperatura sensor 5 : 32.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:33:36 2015
+_________________________________________
+Temperatura sensor 1 : 32.712
+Temperatura sensor 2 : 32.75
+Temperatura sensor 3 : 32.725
+Temperatura sensor 4 : 32.7
+Temperatura sensor 5 : 32.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:34:36 2015
+_________________________________________
+Temperatura sensor 1 : 32.712
+Temperatura sensor 2 : 32.75
+Temperatura sensor 3 : 32.725
+Temperatura sensor 4 : 32.7
+Temperatura sensor 5 : 32.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:35:36 2015
+_________________________________________
+Temperatura sensor 1 : 32.712
+Temperatura sensor 2 : 32.75
+Temperatura sensor 3 : 32.725
+Temperatura sensor 4 : 32.7
+Temperatura sensor 5 : 32.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:36:36 2015
+_________________________________________
+Temperatura sensor 1 : 32.775
+Temperatura sensor 2 : 32.75
+Temperatura sensor 3 : 32.725
+Temperatura sensor 4 : 32.7
+Temperatura sensor 5 : 32.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:37:36 2015
+_________________________________________
+Temperatura sensor 1 : 32.775
+Temperatura sensor 2 : 32.75
+Temperatura sensor 3 : 32.725
+Temperatura sensor 4 : 32.7
+Temperatura sensor 5 : 32.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:38:36 2015
+_________________________________________
+Temperatura sensor 1 : 32.775
+Temperatura sensor 2 : 32.812
+Temperatura sensor 3 : 32.725
+Temperatura sensor 4 : 32.7
+Temperatura sensor 5 : 32.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:39:36 2015
+_________________________________________
+Temperatura sensor 1 : 32.775
+Temperatura sensor 2 : 32.812
+Temperatura sensor 3 : 32.787
+Temperatura sensor 4 : 32.762
+Temperatura sensor 5 : 32.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:40:36 2015
+_________________________________________
+Temperatura sensor 1 : 32.775
+Temperatura sensor 2 : 32.812
+Temperatura sensor 3 : 32.787
+Temperatura sensor 4 : 32.762
+Temperatura sensor 5 : 32.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:41:36 2015
+_________________________________________
+Temperatura sensor 1 : 32.837
+Temperatura sensor 2 : 32.812
+Temperatura sensor 3 : 32.787
+Temperatura sensor 4 : 32.762
+Temperatura sensor 5 : 32.737
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:42:36 2015
+_________________________________________
+Temperatura sensor 1 : 32.837
+Temperatura sensor 2 : 32.875
+Temperatura sensor 3 : 32.787
+Temperatura sensor 4 : 32.762
+Temperatura sensor 5 : 32.737
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:43:36 2015
+_________________________________________
+Temperatura sensor 1 : 32.837
+Temperatura sensor 2 : 32.875
+Temperatura sensor 3 : 32.85
+Temperatura sensor 4 : 32.825
+Temperatura sensor 5 : 32.737
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:44:36 2015
+_________________________________________
+Temperatura sensor 1 : 32.837
+Temperatura sensor 2 : 32.875
+Temperatura sensor 3 : 32.85
+Temperatura sensor 4 : 32.825
+Temperatura sensor 5 : 32.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:45:36 2015
+_________________________________________
+Temperatura sensor 1 : 32.9
+Temperatura sensor 2 : 32.875
+Temperatura sensor 3 : 32.85
+Temperatura sensor 4 : 32.825
+Temperatura sensor 5 : 32.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:46:36 2015
+_________________________________________
+Temperatura sensor 1 : 32.9
+Temperatura sensor 2 : 32.937
+Temperatura sensor 3 : 32.85
+Temperatura sensor 4 : 32.825
+Temperatura sensor 5 : 32.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:47:36 2015
+_________________________________________
+Temperatura sensor 1 : 32.9
+Temperatura sensor 2 : 32.937
+Temperatura sensor 3 : 32.912
+Temperatura sensor 4 : 32.887
+Temperatura sensor 5 : 32.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:48:36 2015
+_________________________________________
+Temperatura sensor 1 : 32.962
+Temperatura sensor 2 : 32.937
+Temperatura sensor 3 : 32.912
+Temperatura sensor 4 : 32.887
+Temperatura sensor 5 : 32.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:49:36 2015
+_________________________________________
+Temperatura sensor 1 : 32.962
+Temperatura sensor 2 : 32.937
+Temperatura sensor 3 : 32.912
+Temperatura sensor 4 : 32.887
+Temperatura sensor 5 : 32.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:50:36 2015
+_________________________________________
+Temperatura sensor 1 : 32.962
+Temperatura sensor 2 : 33.0
+Temperatura sensor 3 : 32.975
+Temperatura sensor 4 : 32.95
+Temperatura sensor 5 : 32.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:51:36 2015
+_________________________________________
+Temperatura sensor 1 : 33.025
+Temperatura sensor 2 : 33.0
+Temperatura sensor 3 : 32.975
+Temperatura sensor 4 : 32.95
+Temperatura sensor 5 : 32.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:52:36 2015
+_________________________________________
+Temperatura sensor 1 : 33.025
+Temperatura sensor 2 : 33.062
+Temperatura sensor 3 : 32.975
+Temperatura sensor 4 : 32.95
+Temperatura sensor 5 : 32.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:53:36 2015
+_________________________________________
+Temperatura sensor 1 : 33.025
+Temperatura sensor 2 : 33.062
+Temperatura sensor 3 : 33.037
+Temperatura sensor 4 : 33.012
+Temperatura sensor 5 : 32.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:54:36 2015
+_________________________________________
+Temperatura sensor 1 : 33.087
+Temperatura sensor 2 : 33.062
+Temperatura sensor 3 : 33.037
+Temperatura sensor 4 : 33.012
+Temperatura sensor 5 : 32.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:55:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.087
+Temperatura sensor 2 : 33.125
+Temperatura sensor 3 : 33.037
+Temperatura sensor 4 : 33.075
+Temperatura sensor 5 : 32.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:56:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.087
+Temperatura sensor 2 : 33.125
+Temperatura sensor 3 : 33.1
+Temperatura sensor 4 : 33.075
+Temperatura sensor 5 : 32.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:57:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.087
+Temperatura sensor 2 : 33.125
+Temperatura sensor 3 : 33.1
+Temperatura sensor 4 : 33.075
+Temperatura sensor 5 : 32.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:58:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.087
+Temperatura sensor 2 : 33.187
+Temperatura sensor 3 : 33.1
+Temperatura sensor 4 : 33.075
+Temperatura sensor 5 : 33.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 13:59:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.15
+Temperatura sensor 2 : 33.187
+Temperatura sensor 3 : 33.1
+Temperatura sensor 4 : 33.075
+Temperatura sensor 5 : 33.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:00:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.15
+Temperatura sensor 2 : 33.25
+Temperatura sensor 3 : 33.162
+Temperatura sensor 4 : 33.137
+Temperatura sensor 5 : 33.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:01:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.212
+Temperatura sensor 2 : 33.25
+Temperatura sensor 3 : 33.162
+Temperatura sensor 4 : 33.137
+Temperatura sensor 5 : 33.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:02:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.212
+Temperatura sensor 2 : 33.25
+Temperatura sensor 3 : 33.225
+Temperatura sensor 4 : 33.2
+Temperatura sensor 5 : 33.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:03:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.212
+Temperatura sensor 2 : 33.25
+Temperatura sensor 3 : 33.225
+Temperatura sensor 4 : 33.2
+Temperatura sensor 5 : 33.175
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:04:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.275
+Temperatura sensor 2 : 33.312
+Temperatura sensor 3 : 33.225
+Temperatura sensor 4 : 33.2
+Temperatura sensor 5 : 33.175
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:05:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.275
+Temperatura sensor 2 : 33.312
+Temperatura sensor 3 : 33.225
+Temperatura sensor 4 : 33.262
+Temperatura sensor 5 : 33.175
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:06:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.337
+Temperatura sensor 2 : 33.312
+Temperatura sensor 3 : 33.287
+Temperatura sensor 4 : 33.262
+Temperatura sensor 5 : 33.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:07:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.337
+Temperatura sensor 2 : 33.375
+Temperatura sensor 3 : 33.287
+Temperatura sensor 4 : 33.262
+Temperatura sensor 5 : 33.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:08:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.337
+Temperatura sensor 2 : 33.375
+Temperatura sensor 3 : 33.287
+Temperatura sensor 4 : 33.325
+Temperatura sensor 5 : 33.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:09:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.337
+Temperatura sensor 2 : 33.375
+Temperatura sensor 3 : 33.35
+Temperatura sensor 4 : 33.325
+Temperatura sensor 5 : 33.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:10:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.4
+Temperatura sensor 2 : 33.375
+Temperatura sensor 3 : 33.35
+Temperatura sensor 4 : 33.325
+Temperatura sensor 5 : 33.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:11:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.4
+Temperatura sensor 2 : 33.437
+Temperatura sensor 3 : 33.35
+Temperatura sensor 4 : 33.325
+Temperatura sensor 5 : 33.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:12:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.4
+Temperatura sensor 2 : 33.437
+Temperatura sensor 3 : 33.412
+Temperatura sensor 4 : 33.387
+Temperatura sensor 5 : 33.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:13:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.4
+Temperatura sensor 2 : 33.437
+Temperatura sensor 3 : 33.412
+Temperatura sensor 4 : 33.387
+Temperatura sensor 5 : 33.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:14:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.462
+Temperatura sensor 2 : 33.437
+Temperatura sensor 3 : 33.412
+Temperatura sensor 4 : 33.387
+Temperatura sensor 5 : 33.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:15:37 2015
+_________________________________________
+Temperatura sensor 1 : 33.462
+Temperatura sensor 2 : 33.5
+Temperatura sensor 3 : 33.412
+Temperatura sensor 4 : 33.45
+Temperatura sensor 5 : 33.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:16:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.462
+Temperatura sensor 2 : 33.5
+Temperatura sensor 3 : 33.412
+Temperatura sensor 4 : 33.45
+Temperatura sensor 5 : 33.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:17:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.462
+Temperatura sensor 2 : 33.5
+Temperatura sensor 3 : 33.475
+Temperatura sensor 4 : 33.45
+Temperatura sensor 5 : 33.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:18:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.525
+Temperatura sensor 2 : 33.5
+Temperatura sensor 3 : 33.475
+Temperatura sensor 4 : 33.45
+Temperatura sensor 5 : 33.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:19:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.525
+Temperatura sensor 2 : 33.5
+Temperatura sensor 3 : 33.475
+Temperatura sensor 4 : 33.45
+Temperatura sensor 5 : 33.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:20:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.525
+Temperatura sensor 2 : 33.562
+Temperatura sensor 3 : 33.475
+Temperatura sensor 4 : 33.45
+Temperatura sensor 5 : 33.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:21:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.525
+Temperatura sensor 2 : 33.562
+Temperatura sensor 3 : 33.475
+Temperatura sensor 4 : 33.512
+Temperatura sensor 5 : 33.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:22:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.525
+Temperatura sensor 2 : 33.562
+Temperatura sensor 3 : 33.537
+Temperatura sensor 4 : 33.512
+Temperatura sensor 5 : 33.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:23:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.525
+Temperatura sensor 2 : 33.562
+Temperatura sensor 3 : 33.537
+Temperatura sensor 4 : 33.512
+Temperatura sensor 5 : 33.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:24:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.587
+Temperatura sensor 2 : 33.562
+Temperatura sensor 3 : 33.537
+Temperatura sensor 4 : 33.512
+Temperatura sensor 5 : 33.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:25:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.587
+Temperatura sensor 2 : 33.562
+Temperatura sensor 3 : 33.537
+Temperatura sensor 4 : 33.512
+Temperatura sensor 5 : 33.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:26:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.587
+Temperatura sensor 2 : 33.562
+Temperatura sensor 3 : 33.537
+Temperatura sensor 4 : 33.512
+Temperatura sensor 5 : 33.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:27:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.587
+Temperatura sensor 2 : 33.562
+Temperatura sensor 3 : 33.537
+Temperatura sensor 4 : 33.512
+Temperatura sensor 5 : 33.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:28:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.587
+Temperatura sensor 2 : 33.562
+Temperatura sensor 3 : 33.537
+Temperatura sensor 4 : 33.512
+Temperatura sensor 5 : 33.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:29:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.587
+Temperatura sensor 2 : 33.562
+Temperatura sensor 3 : 33.6
+Temperatura sensor 4 : 33.512
+Temperatura sensor 5 : 33.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:30:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.587
+Temperatura sensor 2 : 33.562
+Temperatura sensor 3 : 33.6
+Temperatura sensor 4 : 33.512
+Temperatura sensor 5 : 33.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:31:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.587
+Temperatura sensor 2 : 33.625
+Temperatura sensor 3 : 33.6
+Temperatura sensor 4 : 33.575
+Temperatura sensor 5 : 33.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:32:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.65
+Temperatura sensor 2 : 33.625
+Temperatura sensor 3 : 33.6
+Temperatura sensor 4 : 33.575
+Temperatura sensor 5 : 33.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:33:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.65
+Temperatura sensor 2 : 33.625
+Temperatura sensor 3 : 33.6
+Temperatura sensor 4 : 33.575
+Temperatura sensor 5 : 33.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:34:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.65
+Temperatura sensor 2 : 33.625
+Temperatura sensor 3 : 33.6
+Temperatura sensor 4 : 33.575
+Temperatura sensor 5 : 33.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:35:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.65
+Temperatura sensor 2 : 33.687
+Temperatura sensor 3 : 33.662
+Temperatura sensor 4 : 33.575
+Temperatura sensor 5 : 33.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:36:38 2015
+_________________________________________
+Temperatura sensor 1 : 33.65
+Temperatura sensor 2 : 33.687
+Temperatura sensor 3 : 33.662
+Temperatura sensor 4 : 33.637
+Temperatura sensor 5 : 33.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:37:39 2015
+_________________________________________
+Temperatura sensor 1 : 33.65
+Temperatura sensor 2 : 33.687
+Temperatura sensor 3 : 33.662
+Temperatura sensor 4 : 33.637
+Temperatura sensor 5 : 33.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:38:39 2015
+_________________________________________
+Temperatura sensor 1 : 33.712
+Temperatura sensor 2 : 33.687
+Temperatura sensor 3 : 33.662
+Temperatura sensor 4 : 33.637
+Temperatura sensor 5 : 33.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:39:39 2015
+_________________________________________
+Temperatura sensor 1 : 33.712
+Temperatura sensor 2 : 33.687
+Temperatura sensor 3 : 33.662
+Temperatura sensor 4 : 33.637
+Temperatura sensor 5 : 33.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:40:39 2015
+_________________________________________
+Temperatura sensor 1 : 33.712
+Temperatura sensor 2 : 33.687
+Temperatura sensor 3 : 33.662
+Temperatura sensor 4 : 33.637
+Temperatura sensor 5 : 33.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:41:39 2015
+_________________________________________
+Temperatura sensor 1 : 33.65
+Temperatura sensor 2 : 33.687
+Temperatura sensor 3 : 33.662
+Temperatura sensor 4 : 33.637
+Temperatura sensor 5 : 33.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:42:39 2015
+_________________________________________
+Temperatura sensor 1 : 33.65
+Temperatura sensor 2 : 33.687
+Temperatura sensor 3 : 33.662
+Temperatura sensor 4 : 33.637
+Temperatura sensor 5 : 33.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:43:39 2015
+_________________________________________
+Temperatura sensor 1 : 33.65
+Temperatura sensor 2 : 33.687
+Temperatura sensor 3 : 33.662
+Temperatura sensor 4 : 33.637
+Temperatura sensor 5 : 33.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:44:39 2015
+_________________________________________
+Temperatura sensor 1 : 33.712
+Temperatura sensor 2 : 33.687
+Temperatura sensor 3 : 33.662
+Temperatura sensor 4 : 33.637
+Temperatura sensor 5 : 33.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:45:39 2015
+_________________________________________
+Temperatura sensor 1 : 33.712
+Temperatura sensor 2 : 33.687
+Temperatura sensor 3 : 33.662
+Temperatura sensor 4 : 33.637
+Temperatura sensor 5 : 33.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:46:39 2015
+_________________________________________
+Temperatura sensor 1 : 33.712
+Temperatura sensor 2 : 33.687
+Temperatura sensor 3 : 33.662
+Temperatura sensor 4 : 33.637
+Temperatura sensor 5 : 33.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:47:39 2015
+_________________________________________
+Temperatura sensor 1 : 33.712
+Temperatura sensor 2 : 33.687
+Temperatura sensor 3 : 33.662
+Temperatura sensor 4 : 33.637
+Temperatura sensor 5 : 33.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:48:39 2015
+_________________________________________
+Temperatura sensor 1 : 33.712
+Temperatura sensor 2 : 33.687
+Temperatura sensor 3 : 33.725
+Temperatura sensor 4 : 33.637
+Temperatura sensor 5 : 33.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:49:39 2015
+_________________________________________
+Temperatura sensor 1 : 33.712
+Temperatura sensor 2 : 33.75
+Temperatura sensor 3 : 33.725
+Temperatura sensor 4 : 33.637
+Temperatura sensor 5 : 33.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:50:39 2015
+_________________________________________
+Temperatura sensor 1 : 33.712
+Temperatura sensor 2 : 33.75
+Temperatura sensor 3 : 33.725
+Temperatura sensor 4 : 33.7
+Temperatura sensor 5 : 33.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:51:39 2015
+_________________________________________
+Temperatura sensor 1 : 33.712
+Temperatura sensor 2 : 33.75
+Temperatura sensor 3 : 33.725
+Temperatura sensor 4 : 33.7
+Temperatura sensor 5 : 33.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:52:39 2015
+_________________________________________
+Temperatura sensor 1 : 33.775
+Temperatura sensor 2 : 33.75
+Temperatura sensor 3 : 33.725
+Temperatura sensor 4 : 33.7
+Temperatura sensor 5 : 33.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:53:39 2015
+_________________________________________
+Temperatura sensor 1 : 33.775
+Temperatura sensor 2 : 33.75
+Temperatura sensor 3 : 33.725
+Temperatura sensor 4 : 33.7
+Temperatura sensor 5 : 33.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:54:39 2015
+_________________________________________
+Temperatura sensor 1 : 33.775
+Temperatura sensor 2 : 33.75
+Temperatura sensor 3 : 33.725
+Temperatura sensor 4 : 33.7
+Temperatura sensor 5 : 33.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:55:39 2015
+_________________________________________
+Temperatura sensor 1 : 33.775
+Temperatura sensor 2 : 33.75
+Temperatura sensor 3 : 33.725
+Temperatura sensor 4 : 33.7
+Temperatura sensor 5 : 33.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:56:39 2015
+_________________________________________
+Temperatura sensor 1 : 33.775
+Temperatura sensor 2 : 33.75
+Temperatura sensor 3 : 33.787
+Temperatura sensor 4 : 33.7
+Temperatura sensor 5 : 33.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:57:40 2015
+_________________________________________
+Temperatura sensor 1 : 33.775
+Temperatura sensor 2 : 33.812
+Temperatura sensor 3 : 33.787
+Temperatura sensor 4 : 33.7
+Temperatura sensor 5 : 33.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:58:40 2015
+_________________________________________
+Temperatura sensor 1 : 33.775
+Temperatura sensor 2 : 33.812
+Temperatura sensor 3 : 33.787
+Temperatura sensor 4 : 33.762
+Temperatura sensor 5 : 33.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 14:59:40 2015
+_________________________________________
+Temperatura sensor 1 : 33.775
+Temperatura sensor 2 : 33.812
+Temperatura sensor 3 : 33.787
+Temperatura sensor 4 : 33.762
+Temperatura sensor 5 : 33.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:00:40 2015
+_________________________________________
+Temperatura sensor 1 : 33.775
+Temperatura sensor 2 : 33.812
+Temperatura sensor 3 : 33.787
+Temperatura sensor 4 : 33.762
+Temperatura sensor 5 : 33.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:01:40 2015
+_________________________________________
+Temperatura sensor 1 : 33.837
+Temperatura sensor 2 : 33.812
+Temperatura sensor 3 : 33.787
+Temperatura sensor 4 : 33.762
+Temperatura sensor 5 : 33.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:02:40 2015
+_________________________________________
+Temperatura sensor 1 : 33.775
+Temperatura sensor 2 : 33.812
+Temperatura sensor 3 : 33.787
+Temperatura sensor 4 : 33.762
+Temperatura sensor 5 : 33.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:03:40 2015
+_________________________________________
+Temperatura sensor 1 : 33.837
+Temperatura sensor 2 : 33.812
+Temperatura sensor 3 : 33.85
+Temperatura sensor 4 : 33.762
+Temperatura sensor 5 : 33.737
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:04:40 2015
+_________________________________________
+Temperatura sensor 1 : 33.837
+Temperatura sensor 2 : 33.812
+Temperatura sensor 3 : 33.85
+Temperatura sensor 4 : 33.762
+Temperatura sensor 5 : 33.737
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:05:40 2015
+_________________________________________
+Temperatura sensor 1 : 33.837
+Temperatura sensor 2 : 33.812
+Temperatura sensor 3 : 33.85
+Temperatura sensor 4 : 33.762
+Temperatura sensor 5 : 33.737
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:06:40 2015
+_________________________________________
+Temperatura sensor 1 : 33.837
+Temperatura sensor 2 : 33.875
+Temperatura sensor 3 : 33.85
+Temperatura sensor 4 : 33.825
+Temperatura sensor 5 : 33.737
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:07:40 2015
+_________________________________________
+Temperatura sensor 1 : 33.837
+Temperatura sensor 2 : 33.875
+Temperatura sensor 3 : 33.85
+Temperatura sensor 4 : 33.825
+Temperatura sensor 5 : 33.737
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:08:40 2015
+_________________________________________
+Temperatura sensor 1 : 33.837
+Temperatura sensor 2 : 33.875
+Temperatura sensor 3 : 33.85
+Temperatura sensor 4 : 33.825
+Temperatura sensor 5 : 33.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:09:40 2015
+_________________________________________
+Temperatura sensor 1 : 33.9
+Temperatura sensor 2 : 33.875
+Temperatura sensor 3 : 33.85
+Temperatura sensor 4 : 33.825
+Temperatura sensor 5 : 33.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:10:40 2015
+_________________________________________
+Temperatura sensor 1 : 33.9
+Temperatura sensor 2 : 33.875
+Temperatura sensor 3 : 33.912
+Temperatura sensor 4 : 33.825
+Temperatura sensor 5 : 33.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:11:40 2015
+_________________________________________
+Temperatura sensor 1 : 33.9
+Temperatura sensor 2 : 33.937
+Temperatura sensor 3 : 33.912
+Temperatura sensor 4 : 33.825
+Temperatura sensor 5 : 33.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:12:40 2015
+_________________________________________
+Temperatura sensor 1 : 33.9
+Temperatura sensor 2 : 33.937
+Temperatura sensor 3 : 33.912
+Temperatura sensor 4 : 33.887
+Temperatura sensor 5 : 33.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:13:40 2015
+_________________________________________
+Temperatura sensor 1 : 33.962
+Temperatura sensor 2 : 33.937
+Temperatura sensor 3 : 33.912
+Temperatura sensor 4 : 33.887
+Temperatura sensor 5 : 33.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:14:40 2015
+_________________________________________
+Temperatura sensor 1 : 33.962
+Temperatura sensor 2 : 33.937
+Temperatura sensor 3 : 33.912
+Temperatura sensor 4 : 33.887
+Temperatura sensor 5 : 33.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:15:40 2015
+_________________________________________
+Temperatura sensor 1 : 33.962
+Temperatura sensor 2 : 34.0
+Temperatura sensor 3 : 33.912
+Temperatura sensor 4 : 33.887
+Temperatura sensor 5 : 33.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:16:41 2015
+_________________________________________
+Temperatura sensor 1 : 33.962
+Temperatura sensor 2 : 34.0
+Temperatura sensor 3 : 33.975
+Temperatura sensor 4 : 33.95
+Temperatura sensor 5 : 33.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:17:41 2015
+_________________________________________
+Temperatura sensor 1 : 33.962
+Temperatura sensor 2 : 34.0
+Temperatura sensor 3 : 33.975
+Temperatura sensor 4 : 33.95
+Temperatura sensor 5 : 33.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:18:41 2015
+_________________________________________
+Temperatura sensor 1 : 34.025
+Temperatura sensor 2 : 34.0
+Temperatura sensor 3 : 33.975
+Temperatura sensor 4 : 33.95
+Temperatura sensor 5 : 33.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:19:41 2015
+_________________________________________
+Temperatura sensor 1 : 34.025
+Temperatura sensor 2 : 34.0
+Temperatura sensor 3 : 33.975
+Temperatura sensor 4 : 33.95
+Temperatura sensor 5 : 33.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:20:41 2015
+_________________________________________
+Temperatura sensor 1 : 34.025
+Temperatura sensor 2 : 34.0
+Temperatura sensor 3 : 33.975
+Temperatura sensor 4 : 33.95
+Temperatura sensor 5 : 33.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:21:41 2015
+_________________________________________
+Temperatura sensor 1 : 34.025
+Temperatura sensor 2 : 34.0
+Temperatura sensor 3 : 33.975
+Temperatura sensor 4 : 33.95
+Temperatura sensor 5 : 33.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:22:41 2015
+_________________________________________
+Temperatura sensor 1 : 34.025
+Temperatura sensor 2 : 34.062
+Temperatura sensor 3 : 34.037
+Temperatura sensor 4 : 34.012
+Temperatura sensor 5 : 33.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:23:41 2015
+_________________________________________
+Temperatura sensor 1 : 34.025
+Temperatura sensor 2 : 34.062
+Temperatura sensor 3 : 34.037
+Temperatura sensor 4 : 34.012
+Temperatura sensor 5 : 33.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:24:41 2015
+_________________________________________
+Temperatura sensor 1 : 34.087
+Temperatura sensor 2 : 34.062
+Temperatura sensor 3 : 34.037
+Temperatura sensor 4 : 34.012
+Temperatura sensor 5 : 33.925
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:25:41 2015
+_________________________________________
+Temperatura sensor 1 : 34.087
+Temperatura sensor 2 : 34.062
+Temperatura sensor 3 : 34.037
+Temperatura sensor 4 : 34.012
+Temperatura sensor 5 : 33.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:26:41 2015
+_________________________________________
+Temperatura sensor 1 : 34.087
+Temperatura sensor 2 : 34.062
+Temperatura sensor 3 : 34.037
+Temperatura sensor 4 : 34.012
+Temperatura sensor 5 : 33.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:27:41 2015
+_________________________________________
+Temperatura sensor 1 : 34.087
+Temperatura sensor 2 : 34.125
+Temperatura sensor 3 : 34.1
+Temperatura sensor 4 : 34.012
+Temperatura sensor 5 : 33.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:28:41 2015
+_________________________________________
+Temperatura sensor 1 : 34.087
+Temperatura sensor 2 : 34.125
+Temperatura sensor 3 : 34.1
+Temperatura sensor 4 : 34.012
+Temperatura sensor 5 : 33.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:29:41 2015
+_________________________________________
+Temperatura sensor 1 : 34.087
+Temperatura sensor 2 : 34.125
+Temperatura sensor 3 : 34.1
+Temperatura sensor 4 : 34.012
+Temperatura sensor 5 : 33.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:30:41 2015
+_________________________________________
+Temperatura sensor 1 : 34.087
+Temperatura sensor 2 : 34.125
+Temperatura sensor 3 : 34.1
+Temperatura sensor 4 : 34.012
+Temperatura sensor 5 : 33.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:31:41 2015
+_________________________________________
+Temperatura sensor 1 : 34.087
+Temperatura sensor 2 : 34.125
+Temperatura sensor 3 : 34.1
+Temperatura sensor 4 : 34.075
+Temperatura sensor 5 : 33.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:32:41 2015
+_________________________________________
+Temperatura sensor 1 : 34.087
+Temperatura sensor 2 : 34.125
+Temperatura sensor 3 : 34.1
+Temperatura sensor 4 : 34.075
+Temperatura sensor 5 : 33.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:33:41 2015
+_________________________________________
+Temperatura sensor 1 : 34.15
+Temperatura sensor 2 : 34.125
+Temperatura sensor 3 : 34.1
+Temperatura sensor 4 : 34.075
+Temperatura sensor 5 : 33.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:34:41 2015
+_________________________________________
+Temperatura sensor 1 : 34.15
+Temperatura sensor 2 : 34.125
+Temperatura sensor 3 : 34.1
+Temperatura sensor 4 : 34.075
+Temperatura sensor 5 : 33.987
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:35:41 2015
+_________________________________________
+Temperatura sensor 1 : 34.15
+Temperatura sensor 2 : 34.125
+Temperatura sensor 3 : 34.1
+Temperatura sensor 4 : 34.075
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:36:41 2015
+_________________________________________
+Temperatura sensor 1 : 34.15
+Temperatura sensor 2 : 34.125
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.075
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:37:42 2015
+_________________________________________
+Temperatura sensor 1 : 34.15
+Temperatura sensor 2 : 34.125
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.075
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:38:42 2015
+_________________________________________
+Temperatura sensor 1 : 34.15
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.075
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:39:42 2015
+_________________________________________
+Temperatura sensor 1 : 34.15
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.137
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:40:42 2015
+_________________________________________
+Temperatura sensor 1 : 34.15
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.075
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:41:42 2015
+_________________________________________
+Temperatura sensor 1 : 34.15
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.075
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:42:42 2015
+_________________________________________
+Temperatura sensor 1 : 34.15
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.075
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:43:42 2015
+_________________________________________
+Temperatura sensor 1 : 34.15
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.137
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:44:42 2015
+_________________________________________
+Temperatura sensor 1 : 34.15
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.075
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:45:42 2015
+_________________________________________
+Temperatura sensor 1 : 34.15
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.137
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:46:42 2015
+_________________________________________
+Temperatura sensor 1 : 34.212
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.137
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:47:42 2015
+_________________________________________
+Temperatura sensor 1 : 34.212
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.137
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:48:42 2015
+_________________________________________
+Temperatura sensor 1 : 34.212
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.075
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:49:42 2015
+_________________________________________
+Temperatura sensor 1 : 34.15
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.075
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:50:42 2015
+_________________________________________
+Temperatura sensor 1 : 34.15
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.075
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:51:42 2015
+_________________________________________
+Temperatura sensor 1 : 34.15
+Temperatura sensor 2 : 34.125
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.075
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:52:42 2015
+_________________________________________
+Temperatura sensor 1 : 34.15
+Temperatura sensor 2 : 34.125
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.075
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:53:42 2015
+_________________________________________
+Temperatura sensor 1 : 34.15
+Temperatura sensor 2 : 34.125
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.075
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:54:42 2015
+_________________________________________
+Temperatura sensor 1 : 34.15
+Temperatura sensor 2 : 34.125
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.075
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:55:42 2015
+_________________________________________
+Temperatura sensor 1 : 34.15
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.075
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:56:42 2015
+_________________________________________
+Temperatura sensor 1 : 34.212
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.137
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:57:43 2015
+_________________________________________
+Temperatura sensor 1 : 34.212
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.137
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:58:43 2015
+_________________________________________
+Temperatura sensor 1 : 34.212
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.137
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 15:59:43 2015
+_________________________________________
+Temperatura sensor 1 : 34.212
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.137
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:00:43 2015
+_________________________________________
+Temperatura sensor 1 : 34.212
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.162
+Temperatura sensor 4 : 34.137
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:01:43 2015
+_________________________________________
+Temperatura sensor 1 : 34.212
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.225
+Temperatura sensor 4 : 34.137
+Temperatura sensor 5 : 34.05
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:02:43 2015
+_________________________________________
+Temperatura sensor 1 : 34.212
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.225
+Temperatura sensor 4 : 34.137
+Temperatura sensor 5 : 34.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:03:43 2015
+_________________________________________
+Temperatura sensor 1 : 34.212
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.225
+Temperatura sensor 4 : 34.137
+Temperatura sensor 5 : 34.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:04:43 2015
+_________________________________________
+Temperatura sensor 1 : 34.212
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.225
+Temperatura sensor 4 : 34.137
+Temperatura sensor 5 : 34.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:05:43 2015
+_________________________________________
+Temperatura sensor 1 : 34.212
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.225
+Temperatura sensor 4 : 34.137
+Temperatura sensor 5 : 34.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:06:43 2015
+_________________________________________
+Temperatura sensor 1 : 34.212
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.225
+Temperatura sensor 4 : 34.137
+Temperatura sensor 5 : 34.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:07:43 2015
+_________________________________________
+Temperatura sensor 1 : 34.212
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.225
+Temperatura sensor 4 : 34.137
+Temperatura sensor 5 : 34.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:08:43 2015
+_________________________________________
+Temperatura sensor 1 : 34.212
+Temperatura sensor 2 : 34.25
+Temperatura sensor 3 : 34.225
+Temperatura sensor 4 : 34.137
+Temperatura sensor 5 : 34.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:09:43 2015
+_________________________________________
+Temperatura sensor 1 : 34.212
+Temperatura sensor 2 : 34.187
+Temperatura sensor 3 : 34.225
+Temperatura sensor 4 : 34.2
+Temperatura sensor 5 : 34.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:10:43 2015
+_________________________________________
+Temperatura sensor 1 : 34.275
+Temperatura sensor 2 : 34.25
+Temperatura sensor 3 : 34.225
+Temperatura sensor 4 : 34.2
+Temperatura sensor 5 : 34.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:11:43 2015
+_________________________________________
+Temperatura sensor 1 : 34.275
+Temperatura sensor 2 : 34.25
+Temperatura sensor 3 : 34.225
+Temperatura sensor 4 : 34.2
+Temperatura sensor 5 : 34.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:12:43 2015
+_________________________________________
+Temperatura sensor 1 : 34.275
+Temperatura sensor 2 : 34.25
+Temperatura sensor 3 : 34.225
+Temperatura sensor 4 : 34.2
+Temperatura sensor 5 : 34.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:13:43 2015
+_________________________________________
+Temperatura sensor 1 : 34.275
+Temperatura sensor 2 : 34.25
+Temperatura sensor 3 : 34.225
+Temperatura sensor 4 : 34.2
+Temperatura sensor 5 : 34.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:14:43 2015
+_________________________________________
+Temperatura sensor 1 : 34.275
+Temperatura sensor 2 : 34.25
+Temperatura sensor 3 : 34.287
+Temperatura sensor 4 : 34.2
+Temperatura sensor 5 : 34.112
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:15:43 2015
+_________________________________________
+Temperatura sensor 1 : 34.275
+Temperatura sensor 2 : 34.25
+Temperatura sensor 3 : 34.287
+Temperatura sensor 4 : 34.2
+Temperatura sensor 5 : 34.175
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:16:43 2015
+_________________________________________
+Temperatura sensor 1 : 34.275
+Temperatura sensor 2 : 34.25
+Temperatura sensor 3 : 34.287
+Temperatura sensor 4 : 34.2
+Temperatura sensor 5 : 34.175
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:17:44 2015
+_________________________________________
+Temperatura sensor 1 : 34.275
+Temperatura sensor 2 : 34.312
+Temperatura sensor 3 : 34.287
+Temperatura sensor 4 : 34.2
+Temperatura sensor 5 : 34.175
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:18:44 2015
+_________________________________________
+Temperatura sensor 1 : 34.275
+Temperatura sensor 2 : 34.312
+Temperatura sensor 3 : 34.287
+Temperatura sensor 4 : 34.262
+Temperatura sensor 5 : 34.175
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:19:44 2015
+_________________________________________
+Temperatura sensor 1 : 34.337
+Temperatura sensor 2 : 34.312
+Temperatura sensor 3 : 34.287
+Temperatura sensor 4 : 34.262
+Temperatura sensor 5 : 34.175
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:20:44 2015
+_________________________________________
+Temperatura sensor 1 : 34.337
+Temperatura sensor 2 : 34.312
+Temperatura sensor 3 : 34.287
+Temperatura sensor 4 : 34.262
+Temperatura sensor 5 : 34.175
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:21:44 2015
+_________________________________________
+Temperatura sensor 1 : 34.337
+Temperatura sensor 2 : 34.312
+Temperatura sensor 3 : 34.287
+Temperatura sensor 4 : 34.262
+Temperatura sensor 5 : 34.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:22:44 2015
+_________________________________________
+Temperatura sensor 1 : 34.337
+Temperatura sensor 2 : 34.312
+Temperatura sensor 3 : 34.35
+Temperatura sensor 4 : 34.262
+Temperatura sensor 5 : 34.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:23:44 2015
+_________________________________________
+Temperatura sensor 1 : 34.337
+Temperatura sensor 2 : 34.375
+Temperatura sensor 3 : 34.35
+Temperatura sensor 4 : 34.262
+Temperatura sensor 5 : 34.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:24:44 2015
+_________________________________________
+Temperatura sensor 1 : 34.337
+Temperatura sensor 2 : 34.375
+Temperatura sensor 3 : 34.35
+Temperatura sensor 4 : 34.325
+Temperatura sensor 5 : 34.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:25:44 2015
+_________________________________________
+Temperatura sensor 1 : 34.4
+Temperatura sensor 2 : 34.375
+Temperatura sensor 3 : 34.35
+Temperatura sensor 4 : 34.325
+Temperatura sensor 5 : 34.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:26:44 2015
+_________________________________________
+Temperatura sensor 1 : 34.4
+Temperatura sensor 2 : 34.375
+Temperatura sensor 3 : 34.35
+Temperatura sensor 4 : 34.325
+Temperatura sensor 5 : 34.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:27:44 2015
+_________________________________________
+Temperatura sensor 1 : 34.4
+Temperatura sensor 2 : 34.375
+Temperatura sensor 3 : 34.35
+Temperatura sensor 4 : 34.325
+Temperatura sensor 5 : 34.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:28:44 2015
+_________________________________________
+Temperatura sensor 1 : 34.4
+Temperatura sensor 2 : 34.437
+Temperatura sensor 3 : 34.412
+Temperatura sensor 4 : 34.325
+Temperatura sensor 5 : 34.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:29:44 2015
+_________________________________________
+Temperatura sensor 1 : 34.4
+Temperatura sensor 2 : 34.437
+Temperatura sensor 3 : 34.412
+Temperatura sensor 4 : 34.387
+Temperatura sensor 5 : 34.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:30:44 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.437
+Temperatura sensor 3 : 34.412
+Temperatura sensor 4 : 34.387
+Temperatura sensor 5 : 34.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:31:44 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.437
+Temperatura sensor 3 : 34.412
+Temperatura sensor 4 : 34.387
+Temperatura sensor 5 : 34.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:32:44 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.437
+Temperatura sensor 3 : 34.412
+Temperatura sensor 4 : 34.387
+Temperatura sensor 5 : 34.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:33:44 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.437
+Temperatura sensor 3 : 34.412
+Temperatura sensor 4 : 34.387
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:34:44 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.437
+Temperatura sensor 3 : 34.412
+Temperatura sensor 4 : 34.387
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:35:44 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.387
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:36:45 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.387
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:37:45 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.387
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:38:45 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:39:45 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:40:45 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:41:45 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:42:45 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:43:45 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.537
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:44:45 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.562
+Temperatura sensor 3 : 34.537
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:45:45 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.537
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:46:45 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.562
+Temperatura sensor 3 : 34.537
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:47:45 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.537
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:48:45 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.562
+Temperatura sensor 3 : 34.537
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:49:45 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.537
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:50:45 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.562
+Temperatura sensor 3 : 34.537
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:51:45 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.562
+Temperatura sensor 3 : 34.537
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:52:45 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.562
+Temperatura sensor 3 : 34.537
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:53:45 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.562
+Temperatura sensor 3 : 34.537
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:54:45 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.562
+Temperatura sensor 3 : 34.537
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:55:46 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.562
+Temperatura sensor 3 : 34.537
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:56:46 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.562
+Temperatura sensor 3 : 34.537
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:57:46 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.537
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:58:46 2015
+_________________________________________
+Temperatura sensor 1 : 34.65
+Temperatura sensor 2 : 34.625
+Temperatura sensor 3 : 34.6
+Temperatura sensor 4 : 34.575
+Temperatura sensor 5 : 34.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 16:59:46 2015
+_________________________________________
+Temperatura sensor 1 : 34.587
+Temperatura sensor 2 : 34.562
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:00:46 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:01:46 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.412
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:02:46 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.412
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:03:46 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.437
+Temperatura sensor 3 : 34.412
+Temperatura sensor 4 : 34.387
+Temperatura sensor 5 : 34.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:04:46 2015
+_________________________________________
+Temperatura sensor 1 : 34.4
+Temperatura sensor 2 : 34.312
+Temperatura sensor 3 : 34.412
+Temperatura sensor 4 : 34.325
+Temperatura sensor 5 : 34.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:05:46 2015
+_________________________________________
+Temperatura sensor 1 : 34.4
+Temperatura sensor 2 : 34.312
+Temperatura sensor 3 : 34.412
+Temperatura sensor 4 : 34.325
+Temperatura sensor 5 : 34.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:06:46 2015
+_________________________________________
+Temperatura sensor 1 : 34.4
+Temperatura sensor 2 : 34.312
+Temperatura sensor 3 : 34.412
+Temperatura sensor 4 : 34.325
+Temperatura sensor 5 : 34.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:07:46 2015
+_________________________________________
+Temperatura sensor 1 : 34.4
+Temperatura sensor 2 : 34.375
+Temperatura sensor 3 : 34.412
+Temperatura sensor 4 : 34.325
+Temperatura sensor 5 : 34.237
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:08:46 2015
+_________________________________________
+Temperatura sensor 1 : 34.4
+Temperatura sensor 2 : 34.375
+Temperatura sensor 3 : 34.412
+Temperatura sensor 4 : 34.325
+Temperatura sensor 5 : 34.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:09:46 2015
+_________________________________________
+Temperatura sensor 1 : 34.4
+Temperatura sensor 2 : 34.437
+Temperatura sensor 3 : 34.412
+Temperatura sensor 4 : 34.387
+Temperatura sensor 5 : 34.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:10:46 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.437
+Temperatura sensor 3 : 34.412
+Temperatura sensor 4 : 34.387
+Temperatura sensor 5 : 34.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:11:46 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.437
+Temperatura sensor 3 : 34.412
+Temperatura sensor 4 : 34.387
+Temperatura sensor 5 : 34.3
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:12:46 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.437
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.387
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:13:46 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.437
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.387
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:14:47 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.387
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:15:47 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.387
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:16:47 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.387
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:17:47 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:18:47 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:19:47 2015
+_________________________________________
+Temperatura sensor 1 : 34.462
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.362
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:20:47 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.5
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:21:47 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.562
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:22:47 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.562
+Temperatura sensor 3 : 34.475
+Temperatura sensor 4 : 34.45
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:23:47 2015
+_________________________________________
+Temperatura sensor 1 : 34.525
+Temperatura sensor 2 : 34.562
+Temperatura sensor 3 : 34.537
+Temperatura sensor 4 : 34.512
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:24:47 2015
+_________________________________________
+Temperatura sensor 1 : 34.587
+Temperatura sensor 2 : 34.562
+Temperatura sensor 3 : 34.537
+Temperatura sensor 4 : 34.512
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:25:47 2015
+_________________________________________
+Temperatura sensor 1 : 34.587
+Temperatura sensor 2 : 34.562
+Temperatura sensor 3 : 34.537
+Temperatura sensor 4 : 34.512
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:26:47 2015
+_________________________________________
+Temperatura sensor 1 : 34.587
+Temperatura sensor 2 : 34.562
+Temperatura sensor 3 : 34.6
+Temperatura sensor 4 : 34.512
+Temperatura sensor 5 : 34.425
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:27:47 2015
+_________________________________________
+Temperatura sensor 1 : 34.587
+Temperatura sensor 2 : 34.625
+Temperatura sensor 3 : 34.6
+Temperatura sensor 4 : 34.512
+Temperatura sensor 5 : 34.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:28:47 2015
+_________________________________________
+Temperatura sensor 1 : 34.587
+Temperatura sensor 2 : 34.625
+Temperatura sensor 3 : 34.6
+Temperatura sensor 4 : 34.575
+Temperatura sensor 5 : 34.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:29:47 2015
+_________________________________________
+Temperatura sensor 1 : 34.65
+Temperatura sensor 2 : 34.625
+Temperatura sensor 3 : 34.6
+Temperatura sensor 4 : 34.575
+Temperatura sensor 5 : 34.487
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:30:47 2015
+_________________________________________
+Temperatura sensor 1 : 34.65
+Temperatura sensor 2 : 34.625
+Temperatura sensor 3 : 34.6
+Temperatura sensor 4 : 34.575
+Temperatura sensor 5 : 34.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:31:47 2015
+_________________________________________
+Temperatura sensor 1 : 34.65
+Temperatura sensor 2 : 34.625
+Temperatura sensor 3 : 34.6
+Temperatura sensor 4 : 34.575
+Temperatura sensor 5 : 34.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:32:47 2015
+_________________________________________
+Temperatura sensor 1 : 34.65
+Temperatura sensor 2 : 34.687
+Temperatura sensor 3 : 34.6
+Temperatura sensor 4 : 34.575
+Temperatura sensor 5 : 34.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:33:48 2015
+_________________________________________
+Temperatura sensor 1 : 34.65
+Temperatura sensor 2 : 34.687
+Temperatura sensor 3 : 34.662
+Temperatura sensor 4 : 34.637
+Temperatura sensor 5 : 34.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:34:48 2015
+_________________________________________
+Temperatura sensor 1 : 34.65
+Temperatura sensor 2 : 34.687
+Temperatura sensor 3 : 34.662
+Temperatura sensor 4 : 34.637
+Temperatura sensor 5 : 34.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:35:48 2015
+_________________________________________
+Temperatura sensor 1 : 34.712
+Temperatura sensor 2 : 34.687
+Temperatura sensor 3 : 34.662
+Temperatura sensor 4 : 34.637
+Temperatura sensor 5 : 34.55
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:36:48 2015
+_________________________________________
+Temperatura sensor 1 : 34.712
+Temperatura sensor 2 : 34.687
+Temperatura sensor 3 : 34.662
+Temperatura sensor 4 : 34.637
+Temperatura sensor 5 : 34.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:37:48 2015
+_________________________________________
+Temperatura sensor 1 : 34.712
+Temperatura sensor 2 : 34.687
+Temperatura sensor 3 : 34.662
+Temperatura sensor 4 : 34.637
+Temperatura sensor 5 : 34.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:38:48 2015
+_________________________________________
+Temperatura sensor 1 : 34.712
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.662
+Temperatura sensor 4 : 34.637
+Temperatura sensor 5 : 34.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:39:48 2015
+_________________________________________
+Temperatura sensor 1 : 34.712
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.725
+Temperatura sensor 4 : 34.637
+Temperatura sensor 5 : 34.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:40:48 2015
+_________________________________________
+Temperatura sensor 1 : 34.712
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.725
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:41:48 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.725
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:42:48 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.725
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:43:48 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:44:48 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:45:48 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:46:48 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:47:48 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.725
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:48:48 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:49:48 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:50:48 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:51:48 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:52:49 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:53:49 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:54:49 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.812
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:55:49 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.812
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:56:49 2015
+_________________________________________
+Temperatura sensor 1 : 34.837
+Temperatura sensor 2 : 34.812
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:57:49 2015
+_________________________________________
+Temperatura sensor 1 : 34.837
+Temperatura sensor 2 : 34.812
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:58:49 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.812
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.762
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 17:59:49 2015
+_________________________________________
+Temperatura sensor 1 : 34.837
+Temperatura sensor 2 : 34.812
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:00:49 2015
+_________________________________________
+Temperatura sensor 1 : 34.837
+Temperatura sensor 2 : 34.812
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:01:49 2015
+_________________________________________
+Temperatura sensor 1 : 34.837
+Temperatura sensor 2 : 34.812
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:02:49 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:03:49 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:04:49 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:05:49 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:06:49 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:07:49 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:08:49 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:09:49 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:10:49 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.612
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:11:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.775
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:12:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.837
+Temperatura sensor 2 : 34.75
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:13:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.837
+Temperatura sensor 2 : 34.812
+Temperatura sensor 3 : 34.787
+Temperatura sensor 4 : 34.762
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:14:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.837
+Temperatura sensor 2 : 34.812
+Temperatura sensor 3 : 34.85
+Temperatura sensor 4 : 34.762
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:15:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.837
+Temperatura sensor 2 : 34.812
+Temperatura sensor 3 : 34.85
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:16:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.837
+Temperatura sensor 2 : 34.812
+Temperatura sensor 3 : 34.85
+Temperatura sensor 4 : 34.7
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:17:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.837
+Temperatura sensor 2 : 34.812
+Temperatura sensor 3 : 34.85
+Temperatura sensor 4 : 34.762
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:18:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.837
+Temperatura sensor 2 : 34.812
+Temperatura sensor 3 : 34.85
+Temperatura sensor 4 : 34.762
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:19:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.837
+Temperatura sensor 2 : 34.812
+Temperatura sensor 3 : 34.85
+Temperatura sensor 4 : 34.762
+Temperatura sensor 5 : 34.675
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:20:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.837
+Temperatura sensor 2 : 34.812
+Temperatura sensor 3 : 34.85
+Temperatura sensor 4 : 34.762
+Temperatura sensor 5 : 34.737
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:21:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.837
+Temperatura sensor 2 : 34.875
+Temperatura sensor 3 : 34.85
+Temperatura sensor 4 : 34.762
+Temperatura sensor 5 : 34.737
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:22:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.837
+Temperatura sensor 2 : 34.875
+Temperatura sensor 3 : 34.85
+Temperatura sensor 4 : 34.825
+Temperatura sensor 5 : 34.737
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:23:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.9
+Temperatura sensor 2 : 34.875
+Temperatura sensor 3 : 34.85
+Temperatura sensor 4 : 34.825
+Temperatura sensor 5 : 34.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:24:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.9
+Temperatura sensor 2 : 34.875
+Temperatura sensor 3 : 34.912
+Temperatura sensor 4 : 34.825
+Temperatura sensor 5 : 34.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:25:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.9
+Temperatura sensor 2 : 34.875
+Temperatura sensor 3 : 34.912
+Temperatura sensor 4 : 34.825
+Temperatura sensor 5 : 34.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:26:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.9
+Temperatura sensor 2 : 34.875
+Temperatura sensor 3 : 34.912
+Temperatura sensor 4 : 34.825
+Temperatura sensor 5 : 34.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:27:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.9
+Temperatura sensor 2 : 34.875
+Temperatura sensor 3 : 34.912
+Temperatura sensor 4 : 34.825
+Temperatura sensor 5 : 34.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:28:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.9
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.912
+Temperatura sensor 4 : 34.825
+Temperatura sensor 5 : 34.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:29:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.9
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.912
+Temperatura sensor 4 : 34.825
+Temperatura sensor 5 : 34.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:30:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.962
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.912
+Temperatura sensor 4 : 34.825
+Temperatura sensor 5 : 34.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:31:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.9
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.912
+Temperatura sensor 4 : 34.887
+Temperatura sensor 5 : 34.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:32:50 2015
+_________________________________________
+Temperatura sensor 1 : 34.962
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.912
+Temperatura sensor 4 : 34.825
+Temperatura sensor 5 : 34.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:33:51 2015
+_________________________________________
+Temperatura sensor 1 : 34.962
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.912
+Temperatura sensor 4 : 34.887
+Temperatura sensor 5 : 34.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:34:51 2015
+_________________________________________
+Temperatura sensor 1 : 34.962
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.975
+Temperatura sensor 4 : 34.825
+Temperatura sensor 5 : 34.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:35:51 2015
+_________________________________________
+Temperatura sensor 1 : 34.962
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.912
+Temperatura sensor 4 : 34.887
+Temperatura sensor 5 : 34.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:36:51 2015
+_________________________________________
+Temperatura sensor 1 : 34.962
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.975
+Temperatura sensor 4 : 34.887
+Temperatura sensor 5 : 34.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:37:51 2015
+_________________________________________
+Temperatura sensor 1 : 34.962
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.975
+Temperatura sensor 4 : 34.887
+Temperatura sensor 5 : 34.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:38:51 2015
+_________________________________________
+Temperatura sensor 1 : 34.962
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.975
+Temperatura sensor 4 : 34.887
+Temperatura sensor 5 : 34.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:39:51 2015
+_________________________________________
+Temperatura sensor 1 : 34.962
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.975
+Temperatura sensor 4 : 34.887
+Temperatura sensor 5 : 34.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:40:51 2015
+_________________________________________
+Temperatura sensor 1 : 34.962
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.975
+Temperatura sensor 4 : 34.887
+Temperatura sensor 5 : 34.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:41:51 2015
+_________________________________________
+Temperatura sensor 1 : 34.962
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.975
+Temperatura sensor 4 : 34.887
+Temperatura sensor 5 : 34.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:42:51 2015
+_________________________________________
+Temperatura sensor 1 : 34.962
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.975
+Temperatura sensor 4 : 34.887
+Temperatura sensor 5 : 34.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:43:51 2015
+_________________________________________
+Temperatura sensor 1 : 34.962
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.975
+Temperatura sensor 4 : 34.887
+Temperatura sensor 5 : 34.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:44:51 2015
+_________________________________________
+Temperatura sensor 1 : 34.962
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.975
+Temperatura sensor 4 : 34.887
+Temperatura sensor 5 : 34.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:45:51 2015
+_________________________________________
+Temperatura sensor 1 : 34.962
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.975
+Temperatura sensor 4 : 34.887
+Temperatura sensor 5 : 34.8
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:46:51 2015
+_________________________________________
+Temperatura sensor 1 : 34.962
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.975
+Temperatura sensor 4 : 34.887
+Temperatura sensor 5 : 34.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:47:51 2015
+_________________________________________
+Temperatura sensor 1 : 34.962
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.975
+Temperatura sensor 4 : 34.887
+Temperatura sensor 5 : 34.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:48:51 2015
+_________________________________________
+Temperatura sensor 1 : 34.962
+Temperatura sensor 2 : 35.0
+Temperatura sensor 3 : 34.975
+Temperatura sensor 4 : 34.887
+Temperatura sensor 5 : 34.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:49:51 2015
+_________________________________________
+Temperatura sensor 1 : 34.962
+Temperatura sensor 2 : 35.0
+Temperatura sensor 3 : 34.975
+Temperatura sensor 4 : 34.887
+Temperatura sensor 5 : 34.862
+_________________________________________
+_________________________________________
+
+ Wed Aug 12 18:50:51 2015
+_________________________________________
+Temperatura sensor 1 : 34.962
+Temperatura sensor 2 : 34.937
+Temperatura sensor 3 : 34.975
+Temperatura sensor 4 : 34.887
+Temperatura sensor 5 : 34.862
+_________________________________________
