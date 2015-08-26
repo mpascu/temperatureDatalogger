@@ -1,6 +1,7 @@
 from flask import Flask, request, render_template, url_for, redirect
 import time
 import threading
+import csv
 
 app = Flask(__name__)
 
@@ -24,13 +25,12 @@ def getTemperatures():
     return render_template('temps.html', t=temperatures)
 
 @app.route("/logs")
-def hello():
-    #logs=" "
-    #with open("/static"+now+'.txt','r') as file:
-    #    for line in file:
-    #        logs = logs + line +"\n"
-    #return logs
+def getLogs():
     return redirect(url_for('static', filename=now+".txt"))
+
+@app.route("/csvlogs")
+def getCSVLogs():
+    return redirect(url_for('static', filename=now+".csv"))
 
 class main(threading.Thread):
     def run(self):
@@ -47,12 +47,11 @@ class main(threading.Thread):
             #print("Temperatura sensor 5 : "+str(temperatures[5]))
             #print("_________________________________________")
             time.sleep(5)
-
 class datalogger(threading.Thread):
     
     def __init__(self):
-        global now
         threading.Thread.__init__(self)
+        global now
         now = time.strftime("%c")
 
     def run(self):
@@ -72,11 +71,41 @@ class datalogger(threading.Thread):
             file.close()
             time.sleep(60)
 
+class CSVdatalogger(threading.Thread):
+    
+    def __init__(self):
+        threading.Thread.__init__(self)
+        global now
+        file = open("static/"+now+".csv",'ab')
+        csvwriter = csv.writer(file,dialect='excel', delimiter=';',quoting=csv.QUOTE_NONE)
+        csvwriter.writerow(["Data"]+["Sensor 1"]+["Sensor 2"]+["Sensor 3"]+["Sensor 4"]+["Sensor 5"])
+        file.close()
+
+    def run(self):
+        global now
+        while True:
+            file = open("static/"+now+".csv",'ab')
+            csvwriter = csv.writer(file,dialect='excel', delimiter=';',quoting=csv.QUOTE_NONE)
+            csvwriter.writerow([time.strftime("%c")]+[str(temperatures[1])]+[str(temperatures[2])]+[str(temperatures[3])]+[str(temperatures[4])]+[str(temperatures[5])])
+#            csvwriter.writerow(["Sensor 1"])
+ #           csvwriter.writerow(["Sensor 2"]+ [str(temperatures[2])])
+  #          csvwriter.writerow(["Sensor 3"]+ [str(temperatures[3])])
+   #         csvwriter.writerow(["Sensor 4"]+ [str(temperatures[4])])
+    #        csvwriter.writerow(["Sensor 5"]+ [str(temperatures[5])])
+            file.close()
+            time.sleep(60)
+
 
 if __name__ == "__main__":
     myMain = main()
+    myMain.daemon=True
     myMain.start()
+    time.sleep(5)
     myDatalogger = datalogger()
+    myDatalogger.daemon=True
     myDatalogger.start()
+    myCSVDatalogger = CSVdatalogger()
+    myCSVDatalogger.daemon=True
+    myCSVDatalogger.start()
     app.run(host='0.0.0.0', port=1234,threaded=True, debug=True)   
 
