@@ -2,6 +2,7 @@ from flask import Flask, request, render_template, url_for, redirect
 import time
 import threading
 import csv
+import pandas as pd
 
 app = Flask(__name__)
 
@@ -32,21 +33,24 @@ def getLogs():
 def getCSVLogs():
     return redirect(url_for('static', filename=now+".csv"))
 
+@app.route("/graphs")
+def getGraphs():
+    df = pd.read_csv("static/"+now+".csv", sep=';')
+    sensor1 = df["Sensor 1"].tolist()
+    sensor2 = df["Sensor 2"].tolist()
+    sensor3 = df["Sensor 3"].tolist()
+    sensor4 = df["Sensor 4"].tolist()
+    sensor5 = df["Sensor 5"].tolist()
+    print (sensor1)
+    return render_template('graphs.html', s1=sensor1, s2=sensor2, s3=sensor3, s4=sensor4, s5=sensor5 )
+
 class main(threading.Thread):
     def run(self):
         while True:
             for id in sensors.keys():
                 temperatures[id]=read_temperature(id)+desviations[id]
-
-            #print("_________________________________________")
-            #print(" ")
-            #print("Temperatura sensor 1 : "+str(temperatures[1]))
-            #print("Temperatura sensor 2 : "+str(temperatures[2]))
-            #print("Temperatura sensor 3 : "+str(temperatures[3]))
-            #print("Temperatura sensor 4 : "+str(temperatures[4]))
-            #print("Temperatura sensor 5 : "+str(temperatures[5]))
-            #print("_________________________________________")
             time.sleep(5)
+
 class datalogger(threading.Thread):
     
     def __init__(self):

@@ -15,16 +15,27 @@
     <div class="container">
       <div class="header clearfix">
         <nav>
-          <ul class="nav nav-pills pull-right">
+          <ul class="nav nav-tabs pull-right">
             <li role="presentation" class="active"><a href="../">Temperatures</a></li>
-            <li role="presentation"><a href="/logs">Registre de temperatures</a></li>
-            <li role="presentation"><a href="/csvlogs">Descarregar excel</a></li>
+            <li role="presentation" ><a href="/graphs">Grafics</a></li>
+<li role="presentation" class="dropdown">
+                <a class ="dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+
+                    Descarregar registre
+                    <span class="caret"></span>
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                    <li><a href="/logs">Format Text</a></li>
+                    <li><a href="/csvlogs">Format Excel</a></li>
+                </ul>
+            </li>
+
           </ul>
         </nav>
         <h3 class="text-muted">Control temperatures</h3>
       </div>
 {% if t %}
-<div class="container">
+<div class="well">
   <div class="row">
     <div class="col-sm-4">
       <h3>Temperatura 1 
